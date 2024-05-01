@@ -34,6 +34,12 @@ By conducting a comprehensive analysis of return data, the project aims to uncov
 
 The project delivers actionable insights into the reasons for product returns, enabling businesses to make informed decisions to reduce return rates and enhance customer satisfaction. The use of Excel ensures a thorough analysis, and the dynamic dashboard provides an interactive way to explore the data.
 
+## Project' Portfolio Link 📽
+
+
+[Reasons For Returns Data Analysis](https://project.novypro.com/D6fCZS)
+
+
 ## Project Dashboard
 
 ![Returns Dashboard](https://github.com/Raghad-El-Ghobashy/Returners-Analytics-Case-Study/raw/main/Returns-Dashboard.png)
